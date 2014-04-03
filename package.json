@@ -2,6 +2,8 @@
   "name": "ngmin-dynamic",
   "version": "0.0.0",
   "description": "annotate angular apps using this one weird trick",
+  "author": "Brian Ford",
+  "license": "MIT",
   "main": "dynamic.js",
   "directories": {
     "test": "test"
@@ -15,8 +17,10 @@
     "angularjs",
     "minification"
   ],
-  "author": "Brian Ford",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/btford/ngmin-dynamic"
+  },
   "devDependencies": {
     "should": "^3.2.0",
     "esprima": "^1.1.1",
