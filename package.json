@@ -9,7 +9,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test/"
+    "test": "mocha --harmony test/"
   },
   "keywords": [
     "ngmin",
