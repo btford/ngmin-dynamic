@@ -1,4 +1,4 @@
-# ngmin-dynamic
+# ngmin-dynamic [![Build Status](https://travis-ci.org/btford/ngmin-dynamic.svg?branch=master)](https://travis-ci.org/btford/ngmin-dynamic)
 
 Uses a dynamic analysis technique to provide DI annotations for AngularJS.
 
