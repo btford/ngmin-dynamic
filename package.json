@@ -1,6 +1,6 @@
 {
   "name": "ngmin-dynamic",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "annotate angular apps using this one weird trick",
   "author": "Brian Ford",
   "license": "MIT",
