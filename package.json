@@ -2,7 +2,7 @@
   "name": "ngmin-dynamic",
   "version": "0.0.0",
   "description": "annotate angular apps using this one weird trick",
-  "main": "main.js",
+  "main": "dynamic.js",
   "directories": {
     "test": "test"
   },
